@@ -1,4 +1,4 @@
-# typescript-boilerplate
+# typescript-react-boilerplate
 My boilerplate for typescript + react + jest + webpack configurations.
 
 # Stacks

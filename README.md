@@ -1,5 +1,5 @@
 # typescript-boilerplate
-My boilerplate for typical typescript app run on node.
+My boilerplate for typescript + react + jest + webpack configurations.
 
 # Stacks
 - [x] typescript
@@ -14,22 +14,6 @@ My boilerplate for typical typescript app run on node.
 
 # Usage
 
-## Run `webpack` and run the app
 ```
-yarn start
-```
-
-## Watch the app with `webpack` and `forever`
-```
-yarn watch
-```
-
-## Lint 
-```
-yarn lint
-```
-
-Lint configs:
-```
-yarn lint:config
+yarn start|test|build|lint|lint:config
 ```

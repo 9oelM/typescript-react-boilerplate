@@ -6,3 +6,4 @@ dist
 build
 coverage
 yarn-error.log
+public/bundle.js

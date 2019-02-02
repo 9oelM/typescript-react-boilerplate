@@ -1,0 +1,8 @@
+node_modules
+.c9
+.git
+docs
+dist
+build
+coverage
+yarn-error.log
